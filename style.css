@@ -3,12 +3,13 @@ body{
     color: white;
 }
 
-p{
-    color: red;
-}
-
 section{
     background: rgb(184, 156, 213);
     padding-top: 80px;
     padding-bottom: 80px;
 }
+
+p{
+    color: red;
+}
+
