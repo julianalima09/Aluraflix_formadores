@@ -4,15 +4,14 @@ body{
 }
 
 section{
-    background: rgb(221, 217, 217);
-    .p:red 
+    background: rgb(221, 217, 217); 
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;  
 }
 .chamada-texto{
-    margin-right: 10%;
+    margin-right: 5%;
     margin-left: 10%;
 }img {
     height: 200px;
