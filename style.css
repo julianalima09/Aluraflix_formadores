@@ -4,7 +4,7 @@ body{
 }
 
 section{
-    background: rgb(224, 187, 224); 
+    background: whitesmoke 
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -14,7 +14,7 @@ section{
     margin-right: 5%;
     margin-left: 5%;
 }img {
-    height: 200px;
+    height: 100px;
 }
 
 .categoria-videos{
